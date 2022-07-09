@@ -1,6 +1,6 @@
 [
   {
-    "descricao": "Eliminatórias Copa do Mundo 2022",
+    "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
       "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
@@ -24,7 +24,7 @@
     },
     "mandante": {
       "nome": "Bolívia",
-      "forca": 3,
+      "forca": 2,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
     },
     "visitante": {
@@ -50,6 +50,4 @@
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
   }
-]
-
-  
+  ]
